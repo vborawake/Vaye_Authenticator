@@ -173,7 +173,7 @@ button.disabled {
     }
     
     .container-fluid #content {
-        left: 25.05%;
+        left: 25.05% !important;
     }
 }
 
@@ -183,7 +183,7 @@ button.disabled {
     }
     
     .container-fluid #content {
-        left: 25.05%;
+        left: 25.05% !important;
     }
 }
 
@@ -193,16 +193,16 @@ button.disabled {
     }
     
     .container-fluid #content {
-        left: 0;
+        left: 0 !important;
         width: 100%;
     }
 
     .offcanvas.offcanvas-start {
-        width: 40%;
+        width: 40% !important;
     }
 
     .container-fluid #sidebar {
-        width: 40%;
+        width: 40% !important;
     }
 }
 
@@ -212,15 +212,15 @@ button.disabled {
     }
     
     .container-fluid #content {
-        left: 0;
+        left: 0 !important;
         width: 100%;
     }
 
     .offcanvas.offcanvas-start {
-        width: 40%;
+        width: 40% !important;
     }
 
     .container-fluid #sidebar {
-        width: 40%;
+        width: 40% !important;
     }
 }

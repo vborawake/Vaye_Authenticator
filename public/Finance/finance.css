@@ -107,13 +107,13 @@ input:focus {
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
     .container-fluid #content {
-        left: 25.05%;
+        left: 25.05% !important;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
     .container-fluid #content {
-        left: 25.05%;
+        left: 25.05% !important;
     }
 
     .container-fluid #content #payment_table {
@@ -138,16 +138,16 @@ input:focus {
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
     .container-fluid #content {
-        left: 0;
+        left: 0 !important;
         width: 100%;
     }
 
     .offcanvas.offcanvas-start {
-        width: 40%;
+        width: 40% !important;
     }
 
     .container-fluid #sidebar {
-        width: 40%;
+        width: 40% !important;
     }
 
     .container-fluid #content #payment_table {
@@ -172,16 +172,16 @@ input:focus {
 
 @media screen and (min-width: 400px) and (max-width: 576px) {
     .container-fluid #content {
-        left: 0;
+        left: 0 !important;
         width: 100%;
     }
 
     .offcanvas.offcanvas-start {
-        width: 40%;
+        width: 40% !important;
     }
 
     .container-fluid #sidebar {
-        width: 40%;
+        width: 40% !important;
     }
 
     .container-fluid #content #payment_table {
